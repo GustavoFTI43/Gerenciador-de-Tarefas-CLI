@@ -5,7 +5,7 @@ Aplicação de linha de comando (CLI) para gerenciar tarefas do dia a dia, desen
 ---
 
 ## 🖥️ Demonstração
-![demo](c:\Users\lenovo\OneDrive\Pictures\Saved Pictures\Print(CLI).png)
+![demo](imagem.png)
 
 ```
 --------------------------------------------------------------------
