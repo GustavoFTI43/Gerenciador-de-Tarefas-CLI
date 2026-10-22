@@ -38,7 +38,7 @@ Aplicação de linha de comando (CLI) para gerenciar tarefas do dia a dia, desen
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/gerenciador-tarefas-cli.git
+git clone https://github.com/GustavoFTI43/gerenciador-tarefas-cli.git
 
 # Entre na pasta
 cd gerenciador-tarefas-cli
@@ -101,4 +101,4 @@ Outros conceitos praticados:
 
 ---
 
-*Projeto #01 do meu roadmap de aprendizado em Python — [ver roadmap completo](https://github.com/seu-usuario)*
+*Projeto #01 do meu roadmap de aprendizado em Python — [ver roadmap completo](https://github.com/GustavoFTI43)*
