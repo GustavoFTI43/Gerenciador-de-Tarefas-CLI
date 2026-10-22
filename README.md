@@ -5,7 +5,7 @@ Aplicação de linha de comando (CLI) para gerenciar tarefas do dia a dia, desen
 ---
 
 ## 🖥️ Demonstração
-![demo](printdoprograma)
+![demo]()
 
 ```
 --------------------------------------------------------------------
