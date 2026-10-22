@@ -38,10 +38,10 @@ Aplicação de linha de comando (CLI) para gerenciar tarefas do dia a dia, desen
 
 ```bash
 # Clone o repositório
-git clone https://github.com/GustavoFTI43/gerenciador-tarefas-cli.git
+git clone https://github.com/GustavoFTI43/Gerenciador-de-Tarefas-CLI.git
 
 # Entre na pasta
-cd gerenciador-tarefas-cli
+cd Gerenciador-de-Tarefas-CLI
 
 # Execute o programa
 python main.py
@@ -54,7 +54,7 @@ Nenhuma biblioteca externa necessária — o projeto usa apenas a biblioteca pad
 ## 🗂️ Estrutura do projeto
 
 ```
-gerenciador-tarefas-cli/
+Gerenciador-de-Tarefas-CLI
 │
 ├── main.py        # Ponto de entrada — menu principal e fluxo do programa
 ├── tarefas.py     # Lógica das operações (adicionar, listar, concluir, deletar)
